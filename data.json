@@ -1,56 +1,56 @@
 {
-  "last_update": "2026-03-08 20:50:09",
+  "last_update": "2026-03-08 21:48:47",
   "weather": {
     "location": "名間",
     "weather": "晴",
-    "air_temp": 18.1,
-    "humidity": 81.0,
+    "air_temp": 17.3,
+    "humidity": 86.0,
     "rainfall": 0.0,
-    "obs_time": "2026-03-08T20:00:00+08:00"
+    "obs_time": "2026-03-08T21:00:00+08:00"
   },
   "sensors": {
     "Station3": {
-      "soil_temp": 22.4,
-      "soil_moisture": 25.7,
-      "ec": 137.0,
-      "ph": 4.1,
-      "n": 12.0,
-      "p": 16.0,
-      "k": 42.0,
-      "timestamp": "2026-03-08 20:50:09",
-      "station_id": 3
-    },
-    "Station4": {
-      "soil_temp": 21.8,
-      "soil_moisture": 23.6,
-      "ec": 107.0,
-      "ph": 4.0,
+      "soil_temp": 22.5,
+      "soil_moisture": 26.1,
+      "ec": 101.0,
+      "ph": 4.2,
       "n": 12.0,
       "p": 16.0,
       "k": 40.0,
-      "timestamp": "2026-03-08 20:50:09",
+      "timestamp": "2026-03-08 21:48:47",
+      "station_id": 3
+    },
+    "Station4": {
+      "soil_temp": 21.9,
+      "soil_moisture": 23.3,
+      "ec": 143.0,
+      "ph": 4.0,
+      "n": 12.0,
+      "p": 16.0,
+      "k": 42.0,
+      "timestamp": "2026-03-08 21:48:47",
       "station_id": 4
     },
     "Station1": {
       "soil_temp": 22.4,
-      "soil_moisture": 26.0,
-      "ec": 73.0,
-      "ph": 5.2,
-      "n": 11.0,
-      "p": 15.0,
-      "k": 39.0,
-      "timestamp": "2026-03-08 20:50:09",
+      "soil_moisture": 26.4,
+      "ec": 91.0,
+      "ph": 5.3,
+      "n": 12.0,
+      "p": 16.0,
+      "k": 40.0,
+      "timestamp": "2026-03-08 21:48:47",
       "station_id": 1
     },
     "Station2": {
-      "soil_temp": 22.3,
-      "soil_moisture": 25.5,
-      "ec": 127.0,
+      "soil_temp": 22.4,
+      "soil_moisture": 25.6,
+      "ec": 177.0,
       "ph": 4.0,
-      "n": 12.0,
-      "p": 16.0,
-      "k": 41.0,
-      "timestamp": "2026-03-08 20:50:09",
+      "n": 13.0,
+      "p": 17.0,
+      "k": 43.0,
+      "timestamp": "2026-03-08 21:48:47",
       "station_id": 2
     }
   }
